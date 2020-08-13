@@ -76,6 +76,7 @@ RUN python3 -m pip --no-cache-dir install \
   matplotlib \
   jsonschema \
   scikit-learn \
+  sklearn \
   Keras \
   requests \
   gunicorn==20.0.4 \
